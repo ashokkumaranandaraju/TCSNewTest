@@ -1,0 +1,15 @@
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\bin\Debug\net6.0\Course.App.Migration.deps.json
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\bin\Debug\net6.0\Course.App.Migration.dll
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\bin\Debug\net6.0\Course.App.Migration.pdb
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.csproj.AssemblyReference.cache
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.AssemblyInfoInputs.cache
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.AssemblyInfo.cs
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.csproj.CoreCompileInputs.cache
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.dll
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\refint\Course.App.Migration.dll
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.pdb
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\ref\Course.App.Migration.dll
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\bin\Debug\net6.0\Course.App.DataModel.dll
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\bin\Debug\net6.0\Course.App.DataModel.pdb
+C:\Users\NBAnandaAs\Documents\CourseApp\Course.App\Course.App.Migration\obj\Debug\net6.0\Course.App.Migration.csproj.CopyComplete
