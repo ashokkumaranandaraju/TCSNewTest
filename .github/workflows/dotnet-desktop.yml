@@ -16,7 +16,7 @@ jobs:
     runs-on: windows-latest
     env:
       Solution_Name: Course.App      
-      Wap_Project_Directory: Course/Course.App
+      Wap_Project_Directory: CourseApp/Course.App
       Wap_Project_Path: Course/Course.App
     steps:
       - name: Checkout
@@ -32,24 +32,4 @@ jobs:
       - name: Execute unit tests
         run: dotnet test
       - name: Restore the application
-        run: >-
-          msbuild $env:Solution_Name /t:Restore
-          /p:Configuration=$env:Configuration
-        env:
-          Configuration: '${{ matrix.configuration }}'
-      - name: Decode the pfx
-        run: dotnet test
-      - name: Create the app package
-        run: dotnet test
-        env:
-          Appx_Bundle: Always
-          Appx_Bundle_Platforms: x86|x64
-          Appx_Package_Build_Mode: StoreUpload
-          Configuration: '${{ matrix.configuration }}'
-      - name: Remove the pfx
-        run: 'Remove-Item -path $env:Wap_Project_Directory\GitHubActionsWorkflow.pfx'
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: MSIX Package
-          path: '${{ env.Wap_Project_Directory }}\AppPackages'
+        run:  Restore the application
