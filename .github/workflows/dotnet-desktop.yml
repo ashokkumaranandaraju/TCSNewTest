@@ -8,11 +8,6 @@ name: .NET Core Desktop
       - main
 jobs:
   build:
-    strategy:
-      matrix:
-        configuration:
-          - Debug
-          - Release
     runs-on: windows-latest
     steps:
       - name: Checkout
